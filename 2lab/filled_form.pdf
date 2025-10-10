@@ -1,0 +1,211 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Type /Page
+/MediaBox [ 0 0 595.28 841.89 ]
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2821
+>>
+stream
+q
+2 J
+0.57 w
+28.35 787.54 179.53 26.00 re S
+BT /F2 13.00 Tf ET
+BT 31.18 796.64 Td (Ryzen 5 3600) Tj ET
+207.88 787.54 179.53 26.00 re S
+BT /F2 13.00 Tf ET
+BT 210.71 796.64 Td (103) Tj ET
+387.40 787.54 179.53 26.00 re S
+BT /F2 13.00 Tf ET
+BT 390.24 796.64 Td (24679.84) Tj ET
+28.35 761.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 31.18 770.64 Td (Ryzen 7 5800X) Tj ET
+207.88 761.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 210.71 770.64 Td (180) Tj ET
+387.40 761.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 390.24 770.64 Td (21742.51) Tj ET
+28.35 735.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 31.18 744.64 Td (Ryzen 9 5900X) Tj ET
+207.88 735.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 210.71 744.64 Td (93) Tj ET
+387.40 735.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 390.24 744.64 Td (45985.28) Tj ET
+28.35 709.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 31.18 718.64 Td (Core i5-12400F) Tj ET
+207.88 709.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 210.71 718.64 Td (15) Tj ET
+387.40 709.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 390.24 718.64 Td (38033.45) Tj ET
+28.35 683.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 31.18 692.64 Td (Core i7-12700K) Tj ET
+207.88 683.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 210.71 692.64 Td (107) Tj ET
+387.40 683.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 390.24 692.64 Td (41242.18) Tj ET
+28.35 657.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 31.18 666.64 Td (Core i9-13900K) Tj ET
+207.88 657.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 210.71 666.64 Td (72) Tj ET
+387.40 657.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 390.24 666.64 Td (20617.53) Tj ET
+28.35 631.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 31.18 640.64 Td (Ryzen 5 5600X) Tj ET
+207.88 631.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 210.71 640.64 Td (189) Tj ET
+387.40 631.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 390.24 640.64 Td (49097.3) Tj ET
+28.35 605.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 31.18 614.64 Td (Ryzen 7 3700X) Tj ET
+207.88 605.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 210.71 614.64 Td (21) Tj ET
+387.40 605.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 390.24 614.64 Td (44973.28) Tj ET
+28.35 579.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 31.18 588.64 Td (Core i5-11400F) Tj ET
+207.88 579.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 210.71 588.64 Td (103) Tj ET
+387.40 579.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 390.24 588.64 Td (26370.17) Tj ET
+28.35 553.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 31.18 562.64 Td (Core i3-10100) Tj ET
+207.88 553.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 210.71 562.64 Td (122) Tj ET
+387.40 553.54 179.53 26.00 re S
+BT /F1 13.00 Tf ET
+BT 390.24 562.64 Td (25454.75) Tj ET
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 13 Tf
+15.6 TL
+ET
+BT
+1 0 0 1 400 500 Tm
+(16\05609\0562025) Tj
+T*
+ET
+BT
+1 0 0 1 300 500 Tm
+(150 000) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000378 00000 n 
+0000003251 00000 n 
+0000003348 00000 n 
+0000003455 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+3557
+%%EOF

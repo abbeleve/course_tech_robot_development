@@ -1,0 +1,4 @@
+{"to_email": "andreiprojectaleks@gmail.com",
+ "subject": "HTML Message",
+ "html": "<html><body><h2>Привет!</h2><p>Это <b>HTML-версия</b> письма.</p></body></html>"
+}
